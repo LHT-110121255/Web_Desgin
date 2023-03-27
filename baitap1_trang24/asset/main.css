@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    position: inherit;
+}
+/* Header */
+header {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+.school {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: monospace;
+}
+.majors {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 24px;
+    font-family: none;
+}
+.subject {
+    text-align: center;
+    margin-top: 45px;
+    font-size: 30px;
+}
+/* content */
+.content {
+    margin-top: 20px;
+    width: 100%;
+    position: relative;
+}
+.item {
+    text-align: center;
+    font-size: 50px;
+}
+.sc_item {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 45px;
+    font-family: inherit;
+    color: azure;
+}
